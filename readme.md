@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/RishabhXD?logo=github&style=for-the
 | ------------- | ------------- |
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RishabhXD&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishabhXD&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Rishabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RishabhXD&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <br>
