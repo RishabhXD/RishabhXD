@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/RishabhXD?logo=github&style=for-the
 ### Stats
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RishabhXD &count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Anurag's github stats" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhXD&layout=compact&theme=midnight-purple&hide_border=True" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RishabhXD&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Rishabh's github stats" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-ms&layout=compact&theme=midnight-purple&hide_border=True" /></a>  |
 | ------------- | ------------- |
 
 
