@@ -45,9 +45,4 @@ src="https://img.shields.io/github/followers/RishabhXD?logo=github&style=for-the
 
 <br>
 
-### Give me a buzz
-<p align="left"> 
-<a href="https://www.github.com/RishabhXD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rishabh-pant-42760919b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.twitter.com/RishabhJSX" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+
