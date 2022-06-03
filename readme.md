@@ -39,10 +39,3 @@ src="https://img.shields.io/github/followers/RishabhXD?logo=github&style=for-the
 [![Rishabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RishabhXD&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <br>
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, Give me a buzz!</b> 😊</em>
-
-<br>
-
-
