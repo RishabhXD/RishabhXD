@@ -3,8 +3,8 @@
 src="https://img.shields.io/github/followers/RishabhXD?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <br>
 
-## I'm a Student, Developer and a Learner!
-- I ❤️ to learn, develop and experiment with programs and awesome things on internet.
+## I'm a Student, Developer, and Learner!
+- I ❤️ to learn, develop, and experiment with programs and awesome things on the internet.
 - I ❤️ to connect with more people.
 - 2022 Goals: Learn more.
 - Fun Fact: I ❤️ Anime.
